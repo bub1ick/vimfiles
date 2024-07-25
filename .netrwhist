@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='E:/PSScripts'
+let g:netrw_dirhist_1='E:/'
+let g:netrw_dirhist_0='E:/game'
+let g:netrw_dirhist_9='E:/'
+let g:netrw_dirhist_8='E:/game'
+let g:netrw_dirhist_7='E:\game'
+let g:netrw_dirhist_6='C:\Users\bub1ick'
+let g:netrw_dirhist_5='E:/zeno_engine/sources'
+let g:netrw_dirhist_4='E:/zeno_engine'
+let g:netrw_dirhist_3='E:/'
